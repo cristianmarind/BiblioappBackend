@@ -1,0 +1,14 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "udea_libraries": {
+    "host": "localhost",
+    "database": "udea_libraries",
+    "password": "",
+    "name": "udea_libraries",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
